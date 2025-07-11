@@ -52,13 +52,21 @@ The dataset contains transactional data from a UK-based online retailer, coverin
 - **Total Orders of Quantity:** Donut chart illustrating the distribution of order quantities.
 
 ## Visuals
-![Dashboard Screenshot](screenshots.png)
+
+![E-commerce Performance Dashboard](Screenshots.png)
 
 ## Insights
 - Revenue peaked in Q2 2011, possibly due to seasonal demand or promotional campaigns.
 - Products like “Emergency CA” and bikes are major revenue drivers, suggesting a focus on outdoor or sports equipment.
 - The customer district table identifies high-value customers and regions for targeted marketing.
 - The sales map reveals a diverse international customer base, useful for global expansion strategies.
+This project also demonstrates key data engineering skills such as ETL (Extract, Transform, Load), data collection, and data cleaning, which were essential steps in preparing the dataset and building the dashboard.
+
+If you are passionate about data engineering—including ETL, data collection, data cleaning, and more—feel free to connect with me! I enjoy collaborating on projects in these areas and am always open to new opportunities and discussions.
+
+## Contact
+- LinkedIn: [michael-micah003](https://www.linkedin.com/in/michael-micah003/)
+- Email: makoflash05@gmail.com
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for enhancements or bug fixes.
