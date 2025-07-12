@@ -33,7 +33,7 @@ def batch_insert(df, table_name, batch_size=1000):
             host='localhost',
             database='ecommerce_db',
             user='root',
-            password='@Michael2001'
+            password='your_password'
         )
         cursor = connection.cursor()
         columns = ', '.join(df.columns)
